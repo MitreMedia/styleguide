@@ -1,4 +1,4 @@
 Styleguides
 ===========
 
-* [Ruby](ruby.rdoc)
+* [Ruby](Ruby.rdoc)
